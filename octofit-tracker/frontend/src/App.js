@@ -6,7 +6,7 @@ import Leaderboard from './components/Leaderboard';
 import Teams from './components/Teams';
 import Users from './components/Users';
 import Workouts from './components/Workouts';
-import octofitLogo from '../../docs/octofitapp-small.png';
+import octofitLogo from './octofitapp-small.png';
 
 function App() {
   return (
